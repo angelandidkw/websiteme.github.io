@@ -1,14 +1,11 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Simple Website</title>
+    <title>My Awesome Website</title>
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <p>This is my simple website hosted on GitHub Pages.</p>
+    <h1>Welcome to My Website!</h1>
+    <img src="/Users/angelmarquezchavarria/Desktop/icegif-144.gif" alt="Cool GIF">
 </body>
 </html>
 
